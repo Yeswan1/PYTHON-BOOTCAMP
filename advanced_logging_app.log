@@ -1,0 +1,10 @@
+2025-08-20 12:36:34,558 - __main__ - DEBUG - This is a debug message
+2025-08-20 12:36:34,559 - __main__ - INFO - This is an info message
+2025-08-20 12:36:34,559 - __main__ - WARNING - This is a warning message
+2025-08-20 12:36:34,559 - __main__ - ERROR - This is an error message
+2025-08-20 12:36:34,560 - __main__ - CRITICAL - This is a critical message
+2025-08-22 17:12:29,386 - __main__ - DEBUG - This is a debug message
+2025-08-22 17:12:29,386 - __main__ - INFO - This is an info message
+2025-08-22 17:12:29,386 - __main__ - WARNING - This is a warning message
+2025-08-22 17:12:29,386 - __main__ - ERROR - This is an error message
+2025-08-22 17:12:29,386 - __main__ - CRITICAL - This is a critical message

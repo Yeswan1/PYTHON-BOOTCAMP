@@ -1,0 +1,21 @@
+EmployeeID,Name,Department,Role,Salary
+101,John Smith,Engineering,Software Engineer,75000
+102,Emily Davis,Marketing,Marketing Manager,68000
+103,Michael Johnson,Finance,Financial Analyst,72000
+104,Sophia Lee,Human Resources,HR Specialist,60000
+105,David Brown,Engineering,DevOps Engineer,80000
+106,Olivia Wilson,Sales,Sales Executive,65000
+107,Liam Martinez,Engineering,Data Scientist,90000
+108,Isabella Taylor,Finance,Accountant,58000
+109,James Anderson,Marketing,Content Strategist,62000
+110,Mia Thomas,Sales,Sales Manager,70000
+111,Ethan Walker,Engineering,,82000
+112,Ava Harris,Marketing,SEO Specialist,
+113,Noah White,,Business Analyst,69000
+114,Charlotte Moore,Finance,Investment Advisor,75000
+115,William Hall,Human Resources,Recruiter,61000
+116,,Sales,Account Executive,64000
+117,Amelia King,Engineering,Backend Developer,88000
+118,Lucas Scott,Finance,,73000
+119,Harper Adams,Marketing,Brand Manager,71000
+120,Daniel Evans,Engineering,Full Stack Developer,

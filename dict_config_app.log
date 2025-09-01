@@ -1,0 +1,5 @@
+2025-08-20 11:44:27,836 - root - DEBUG - This is a debug message - configure_logging_with_dict - 33
+2025-08-20 11:44:27,838 - root - INFO - This is an info message - configure_logging_with_dict - 34
+2025-08-20 11:44:27,842 - root - WARNING - This is a warning message - configure_logging_with_dict - 35
+2025-08-20 11:44:27,849 - root - ERROR - This is an error message - configure_logging_with_dict - 36
+2025-08-20 11:44:27,853 - root - CRITICAL - This is a critical message - configure_logging_with_dict - 37

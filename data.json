@@ -1,0 +1,13 @@
+import json
+
+data = {
+    "name": "John Doe",
+    "age": 30,
+    "email": "john.doe@example.com",
+    "is_student": False,
+    "skills": ["Python", "Machine Learning", "Data Analysis"],
+    "address": {
+        "city": "New York",
+        "zipcode": "10001"
+    }
+}

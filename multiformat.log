@@ -1,0 +1,5 @@
+2025-08-19 18:12:29,546 - customdif - DEBUG - This is a debug message
+2025-08-19 18:12:29,553 - customdif - INFO - This is an info message
+2025-08-19 18:12:29,553 - customdif - WARNING - This is a warning message
+2025-08-19 18:12:29,563 - customdif - ERROR - This is an error message
+2025-08-19 18:12:29,563 - customdif - CRITICAL - This is a critical message
